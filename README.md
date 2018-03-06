@@ -1,15 +1,10 @@
 # Demo
   This demo was done following LevelUpTuts [GatsbyJS Tutorial](https://www.youtube.com/watch?v=b2H7fWhQcdE&index=1&list=PLLnpHn493BHHfoINKLELxDch3uJlSapxg)
 
-# gatsby-starter-default
-The default Gatsby starter
+# Getting started
+  - Vist Gatsby [getting started docs](https://www.gatsbyjs.org/docs/)
+  - Make sure you have the [LATEST(very important) version of node installed](https://nodejs.org/en/)
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
 
 ## Deploy
 
