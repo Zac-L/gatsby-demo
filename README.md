@@ -4,6 +4,9 @@
 # Getting started
   - Vist Gatsby [getting started docs](https://www.gatsbyjs.org/docs/)
   - Make sure you have the [LATEST(very important) version of node installed](https://nodejs.org/en/)
+  ```
+  node --version
+  ```
 
 
 ## Deploy
